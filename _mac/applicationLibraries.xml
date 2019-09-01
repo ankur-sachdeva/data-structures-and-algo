@@ -1,0 +1,117 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.6.9 (/usr/bin/python2.6) interpreter library">
+      <CLASSES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" />
+        <root url="file:///Library/Python/2.6/site-packages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1247972724" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" />
+        <root url="file:///Library/Python/2.6/site-packages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1247972724" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 (/usr/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+        <root url="file:///Library/Expedia/Python" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+        <root url="file:///Library/Expedia/Python" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.13 (/usr/local/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

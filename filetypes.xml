@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="EncryptedKeyGenerator.java" type="CLASS" />
+      <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="kafkaSchema" type="PLAIN_TEXT" />
+      <mapping pattern=".maven-dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="07_remove_camsdc" type="PLAIN_TEXT" />
+      <mapping pattern="JENKINSFILE" type="PLAIN_TEXT" />
+      <mapping pattern=".babeIrc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
