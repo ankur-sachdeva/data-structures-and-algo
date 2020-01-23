@@ -1,5 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
